@@ -1,0 +1,2 @@
+# LinearRegresyon
+Python LineerRegresyon Kodu
